@@ -19,7 +19,7 @@
     left: -84px;
     width: 311px;
     height: 325px;
-    background-color: darkgreen;
+    background-color: #1f8555;
     border-radius: 50%;
 }
 
@@ -27,7 +27,7 @@
     position: absolute;
     width: 315px;
     height: 47px;
-    background-color: blue;
+    background-color: #153d9c;
     top: 155px;
     left: 44px;
     transform: rotate(47deg);
@@ -39,7 +39,7 @@
     height: 81px;
     bottom: 52px;
     left: 50px;
-    background-color: purple;
+    background-color: #9307c0;
     border-radius: 30px;
     z-index: 1;
 }
@@ -50,7 +50,7 @@
     height: 100px;
     top: 34%;
     right: 78px;
-    background-color: lightgreen;
+    background-color: #04a765;
     border-radius: 100px;
     z-index: 2;
 }
@@ -61,6 +61,6 @@
     right: 0;
     width: 0;
     height: 0;
-    border-bottom: 109px solid darkorange;
+    border-bottom: 109px solid #cf3301;
     border-left: 100px solid transparent;
 }
